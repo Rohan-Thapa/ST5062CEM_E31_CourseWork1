@@ -1,0 +1,45 @@
+-------------------- Searching the domain `schoolworkspro.com` --------------------
+[+] Links present in the domain:
+
+--> None, there is no link in the webpage code of the domain.
+
+
+--------------------------------------------------------------------------------
+
+[+] SSL Information on the given domain
+
+subject : ((('commonName', 'schoolworkspro.com'),),)
+issuer : ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'R3'),))
+version : 3
+serialNumber : 04FCE88E6B41FDC3DF7B27E52A6B5B94E7B4
+notBefore : Jan 22 08:41:00 2023 GMT
+notAfter : Apr 22 08:40:59 2023 GMT
+subjectAltName : (('DNS', 'schoolworkspro.com'),)
+OCSP : ('http://r3.o.lencr.org',)
+caIssuers : ('http://r3.i.lencr.org/',)
+
+
+--------------------------------------------------------------------------------
+
+[+] Full Detials of the domain from Whois database:
+(Note: There might be 'None' given to all the key values if `whois` database is not properly maintained of the given domain.)
+
+domain_name : ['SCHOOLWORKSPRO.COM', 'schoolworkspro.com']
+registrar : GoDaddy.com, LLC
+whois_server : whois.godaddy.com
+referral_url : None
+updated_date : [datetime.datetime(2022, 10, 14, 11, 55, 54), datetime.datetime(2022, 8, 16, 9, 26, 57)]
+creation_date : [datetime.datetime(2021, 8, 12, 4, 42, 39), datetime.datetime(2021, 8, 11, 23, 42, 39)]
+expiration_date : [datetime.datetime(2023, 8, 12, 4, 42, 39), datetime.datetime(2023, 8, 11, 23, 42, 39)]
+name_servers : ['NS63.DOMAINCONTROL.COM', 'NS64.DOMAINCONTROL.COM']
+status : ['clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited', 'clientRenewProhibited https://icann.org/epp#clientRenewProhibited', 'clientTransferProhibited https://icann.org/epp#clientTransferProhibited', 'clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited']
+emails : abuse@godaddy.com
+dnssec : unsigned
+name : Registration Private
+org : Domains By Proxy, LLC
+address : ['DomainsByProxy.com', '2155 E Warner Rd']
+city : Tempe
+state : Arizona
+registrant_postal_code : 85284
+country : US
+
